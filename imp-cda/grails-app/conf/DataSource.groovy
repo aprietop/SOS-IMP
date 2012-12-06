@@ -21,7 +21,7 @@ environments {
 	        url = "jdbc:mysql://localhost:3306/imp_dev?useUnicode=true&characterEncoding=UTF-8&characterSetResults=UTF-8"
 	        dbCreate = "update"
 	        username = "root"
-	        password = "dogui7007"
+	        password = ""
                // dialect = 'org.hibernate.dialect.MySQL5InnoDBDialect'
 
             //loggingSql = true
